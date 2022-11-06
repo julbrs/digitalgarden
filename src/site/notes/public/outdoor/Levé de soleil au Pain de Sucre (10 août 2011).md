@@ -3,7 +3,7 @@
 ---
 
 
-![](./IMG_4889.JPG)
+![](IMG_4889.JPG)
 
 Après l'arrivée d'Eliott, les randonnées itinérantes se sont un peu
 limitées :) Mais on essaie de garder le cap ! Cet été, en vacances dans
@@ -30,7 +30,7 @@ tente classique. En terme de chaleur, le duvet 0° confort était juste :)
 On a dormi 4h je crois, de 22H à 2h du mat'. Après, impossible de se
 rendormir jusqu'au lever vers 4h...
 
-![](./IMG_4904.JPG)
+![](IMG_4904.JPG)
 
 Le réveil est froid au petit matin, ça claque des dents... Le tarp voit
 son poids doublé avec la couche de givre !! L'eau préparé la veille pour
@@ -49,4 +49,4 @@ l'appartement au matin.
 En tout cas une chouette sortie sans grande prétention, mais avec un
 test de tarp en condition sympathique, et un sac minimaliste !
 
-![](./IMG_4912.JPG)
+![](IMG_4912.JPG)
