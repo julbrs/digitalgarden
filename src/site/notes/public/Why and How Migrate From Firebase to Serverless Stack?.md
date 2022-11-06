@@ -4,7 +4,9 @@
 
 #serverless #sst #cdk #aws [[SST\|SST]]
 
-_This article is the third of a series around SST - Serverless Stack. I will try to let you discover some amazing aspects of this particular solution in the serverless world. You can find the first article_ _[here (introduction)](https://sidoine.org/sst-the-most-underrated-serverless-framework-you-need-to-discover)_ _and the second one_ _[here (some constructs presentation)](https://sidoine.org/sst-the-most-underrated-serverless-framework-you-need-to-discover-part-2)__._
+
+> [!NOTE] SST Series
+> This article is the third of a series around SST - Serverless Stack. I will try to let you discover some amazing aspects of this particular solution in the serverless world. You can find the first article_ _[here (introduction)](https://sidoine.org/sst-the-most-underrated-serverless-framework-you-need-to-discover)_ _and the second one_ _[here (some constructs presentation)](https://sidoine.org/sst-the-most-underrated-serverless-framework-you-need-to-discover-part-2)__.
 
 [Firebase](https://firebase.google.com/) is a fantastic tool. It allows you to build mobile or web applications without having to manage a backend by yourself. But somehow, this comes with some drawbacks. In this article I will explain you why you may want to switch, and a practical guide to switch.
 
