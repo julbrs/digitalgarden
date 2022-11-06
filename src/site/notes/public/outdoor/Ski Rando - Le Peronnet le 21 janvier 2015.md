@@ -3,7 +3,7 @@
 ---
 
 
-![](./IMG_7934.JPG)
+![](IMG_7934.JPG)
 
 Une bien belle introduction au ski de randonnée ce jour avec quelques copains,
 pour aller au sommet du Peronnet, au dessus de Saint Martin de la Porte
