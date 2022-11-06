@@ -15,9 +15,8 @@ Don’t be shy! You can contact me on [Twitter](https://twitter.com/_julbrs) or 
 > TODO
 ##  Writing for other companies:
 
-[
 
-Building a nivo Dashboard with Cube - Cube Blog
+https://cube.dev/blog/building-a-nivo-dashboard-with-cube
 
 I've worked for many years as a business intelligence (BI) consultant, building dashboards and reports for big companies. It's not easy to build a dashboard with classic BI tools, and it's even trickier if you want to embed elements in a classic React web app.
 
