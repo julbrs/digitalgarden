@@ -3,7 +3,7 @@
 ---
 
 
-![](./IMG_5934.JPG)
+![](IMG_5934.JPG)
 
 Avec Camille on avait décidé de longue date de prévoir un petit bivouac
 sans prétention pour tester la tarp et autre matos léger... Après
@@ -34,7 +34,7 @@ vers le sommet pour immortaliser les sommets environnants au réveil du
 soleil... Le cadre est somptueux, avec un soleil qui pointe le bout de
 son nez juste derrière le massif du Mont Blanc.
 
-![](./IMG_5920.JPG)
+![](IMG_5920.JPG)
 
 A la redescente sur le camp, un chamois est venu brouter sur le plateau
 herbeux. En le suivant, on tombe sur un groupe de 5 ou 6 chamois sur les
@@ -46,4 +46,4 @@ Ce fut une sortie sympatique, suivi au 'pas de course' par une rando en
 famille jusqu'à la dent de Moirans, sous un soleil de plomb attenué par
 le sentier très idéalement ombragé !
 
-![](./IMG_5946.JPG)
+![](IMG_5946.JPG)
