@@ -85,7 +85,7 @@ moments, dur de revenir au métro / boulot / dodo quotidien !
 | Arrivée         | Corrençon - 1111m                                                                                       |
 | Denivelé mesuré | - 244m                                                                                                  |
 
-![](./IMG_3616.JPG)
+![](IMG_3616.JPG)
 
 La nuit ensuite est un peu fraîche (vive les sacs de couchage en duvet
 !), à même le sol de la cabane (l'étage était plein !) mais on a bien
@@ -94,7 +94,7 @@ dormi, serré en rang d'oignons les uns contre les autres. Réveil vers
 panorama brumeux s'offre à nous ce matin... On n'aura pas beaucoup de
 visibilité aujourd'hui encore !
 
-![](./IMG_3617.JPG)
+![](IMG_3617.JPG)
 
 Au programme : retour à Corrençon, en continuant encore le GR91 vers le
 sud, puis en bifurquant pour reprendre un itinéraire de GTV qui nous
@@ -160,8 +160,8 @@ les hauts plateaux du Vercors... Je crois que c'est ici qu'il y a
 quelques années j'ai eu une furieuse envie de faire les hauts plateaux :
 un espace quasi-désertique, de beaux paysages....
 
-![](./IMG_3635.JPG)
+![](IMG_3635.JPG)
 
-![](./IMG_3652.JPG)
+![](IMG_3652.JPG)
 
-![](./IMG_3649.JPG)
+![](IMG_3649.JPG)
