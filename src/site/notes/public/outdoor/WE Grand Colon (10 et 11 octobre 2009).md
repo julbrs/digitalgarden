@@ -59,7 +59,7 @@ guillaume pendant la nuit !!)
 | Arrivée         | Parking du Bois de l'épine - 1460m - 17h |
 | Denivelé mesuré | + 1100m / - 1400m                        |
 
-![](./IMG_8359.JPG)
+![](IMG_8359.JPG)
 
 Nuit fraiche (6° au réveil dans la baraque) mais agréable dans les
 duvets 0°, un peu moins pour cams et loub... Petit déj bien riche pour
@@ -76,7 +76,7 @@ dans le Vercors, Chamechaude dans la Chartreuse. Ensuite descente assez
 raide et caillouteuse pour arriver au lac Merlat vers 12h30. On se fait
 une première étape géocaching, et notre pause de midi.
 
-![](./IMG_8393.JPG)
+![](IMG_8393.JPG)
 
 Les brumes menacent de nous recouvrir pendant qu'on mange, et on repart
 dans un brouillard assez dense après une courte pause. Le chemin devient
