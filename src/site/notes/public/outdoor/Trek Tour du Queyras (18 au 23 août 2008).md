@@ -12,7 +12,7 @@ bonnes habitudes...
 
 ### Lundi 18 aout (J1) – St Véran > Col Agnel
 
-![](./IMG_1446.JPG)
+![](IMG_1446.JPG)
 
 Levé à 7h, douche et petit dejeuner à la cuisine du gite. Départ à 8h.
 On laisse la voiture devant le gite pour notre toute la durée de notre
@@ -58,7 +58,7 @@ Vieux, ça ne va pas mieux.
 Pose à coté du lac Foréant : Marion est faible, elle n'a rien dans le
 ventre....
 
-![](./IMG_1447.JPG)
+![](IMG_1447.JPG)
 
 On se pose un peu après le lac Egorgeou pour manger. Enfin, pour être
 plus juste, je me pose pour manger et Marion pour dormir. Elle ne prend
@@ -118,7 +118,7 @@ splendide, magnifique comme montée. J'ai pas trouvé de mots pour décrire
 cette ascension. On l'a faite tranquille, en s'arrêtant souvent pour
 regarder le paysage... Il n'y avait personne, à part des marmottes...
 
-![](./IMG_1456.JPG)
+![](IMG_1456.JPG)
 
 La descente est un peu plus technique jusqu'au village de Souliers. On
 décide alors de se poser au refuge parce que on a envie de bien dormir,
@@ -162,9 +162,9 @@ la journée, c'est pas mal du tout ! Diner : spaghetti bolo déshydraté,
 soupes : pas mauvais... On fait également notre premier bivouac ce soir.
 J'ai peur qu'il fasse froid pendant la nuit (on est à 2300m.)
 
-![](./IMG_1493.JPG)
+![](IMG_1493.JPG)
 
-![](./IMG_1500.JPG)
+![](IMG_1500.JPG)
 
 ### Vendredi 22 aout (J5) Furfande > Bramousse
 Finalement, il a fait plutôt froid pendant la nuit... On pensera à
@@ -179,7 +179,7 @@ Marion, fromage, dessert et café. On se fait un peu plaisir, on a décidé
 de bivouaquer ce soir aux chalets de Bramousse, un peu plus haut (1850m
 d'altitude), beau 'coin' donné par la gardienne du refuge de Furfande.
 
-![](./IMG_1511.JPG)
+![](IMG_1511.JPG)
 
 On voit passer une averse alors qu'on mange. Cool, on est à
 l'intérieur... Quand on redécolle vers 15h30, il fait de nouveau beau.
@@ -194,7 +194,7 @@ chalet habité (par des marseillais ?) mais j'ai l'impression qu'ils
 m'ignorent quand je vais les voir, donc tant pis pour leur autorisation,
 on fera sans !
 
-![](./IMG_1512.JPG)
+![](IMG_1512.JPG)
 
 Au repas ce soir, soupes (bouillon chinois de chez Royco très bon!) et
 riz du Vieux Camp' (pas super bon mais cuit en 5 minutes). Dodo à 20h30.
@@ -215,7 +215,7 @@ arrive à la voiture qui n'a pas bougé à 15h30. Fini ! Une petite glace
 au Bois des Amoureux pour fêter notre rando : la prochaine fois, on fera
 les Fonds de Cervières...
 
-![](./IMG_1516.JPG)
+![](IMG_1516.JPG)
 
 ### Epilogue
 Une superbe rando, au milieu du décors fantastique du parc régional du
