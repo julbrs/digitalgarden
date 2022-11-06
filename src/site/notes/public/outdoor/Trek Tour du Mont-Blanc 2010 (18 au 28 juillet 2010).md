@@ -3,7 +3,7 @@
 ---
 
 
-![](./IMG_3908.JPG)
+![](IMG_3908.JPG)
 
 Un grand tour qui nous tenait à coeur de faire depuis quelques temps, et une
 bonne occasion de marcher avec Guillaume et Audrey pendant cet été ! Le
@@ -39,7 +39,7 @@ quelques images...
 
 ### J0 - Arrivée aux Houches
 
-![](./IMG_3835.JPG)
+![](IMG_3835.JPG)
 
 Après une étape à Grenoble pour finir les sacs chez Guillaume et Audrey, on est
 fin prêt pour aller aux Houches en voiture. On y arrive vers 19h, le temps de
@@ -55,7 +55,7 @@ roule en direction du tunnel du Mont-Blanc.
 
 ### J1 - Les Houches - Col de la Voza - Les Contamines - Camping du Planet
 
-![](./IMG_3845.JPG)
+![](IMG_3845.JPG)
 
 Première journée, et belle grosse journée pour se mettre en jambe ! On part
 tard, vers 10h, après avoir retiré de l'argent pour se ravitailler et les
@@ -72,11 +72,11 @@ camping à l'arrivée. Sympa, on peut faire notre popotte sous un auvent.
 Rencontre avec Victor, polonais qui fait le TMB pour la première fois, il va
 bien plus vite que nous !
 
-![](./IMG_3854.JPG)
+![](IMG_3854.JPG)
 
 ### J2 - Camping du Planet - La Balme
 
-![](./IMG_3855.JPG)
+![](IMG_3855.JPG)
 
 Toute petite étape sur le papier, parfait pour se remettre en jambe doucement.
 La journée de la veille a été rude, comme chaque première journée de rando. On
@@ -93,11 +93,11 @@ GR5 sur un mois :) Il bivouaque à côté de nous. Il a aussi un P3RS !! On a eu
 temps de prendre un thé ensemble, ainsi qu'une rasade de génépi avant d'aller se
 coucher. Petite insolation pour Marion qui ne mange pas ce soir.
 
-![](./IMG_3861.JPG)
+![](IMG_3861.JPG)
 
 ### J3 - La Balme - Col de la Croix du Bonhomme - Les Chapieux
 
-![](./IMG_3864.JPG)
+![](IMG_3864.JPG)
 
 Allez, aujourd'hui on repart pour une étape normale ! Levé vers 7h, pas de rosée
 sur la tente, c'est agréable ! On décolle vers 8h après les classiques céréales +
@@ -117,7 +117,7 @@ avoir pris la T3 UP (on est parti avec la T2 UP de gégé) : c'est plus lourd d'
 kilo mais cela permet de rentrer à 4 assis au cas ou on devrait manger sous la
 flotte !
 
-![](./IMG_3878.JPG)
+![](IMG_3878.JPG)
 
 
 Truc marrant : on s'est posé à coté de 2 bikers étrangers qui doivent
@@ -179,8 +179,8 @@ charger en énergie ! Et on file au dodo un peu tard comparé au précédentes n
 
 ### J6 - Courmayeur - Bertone - Refuge Bonatti
 
-![](./IMG_3885.JPG)
-![](./IMG_3893.JPG)
+![](IMG_3885.JPG)
+![](IMG_3893.JPG)
 
 Réveil tardif vers 7h30 :) C'est l'heure d'ouverture du petit déj à l'hotel ! On
 en profite bien, on mange bien ! On part vers 8h30, une équipe à pied (Audrey,
@@ -202,8 +202,8 @@ et mes genoux me font mal...
 
 ### J7 - Refuge Bonatti - Grand col Ferret - La Fouly
 
-![](./IMG_3920.JPG)
-![](./IMG_3925.JPG)
+![](IMG_3920.JPG)
+![](IMG_3925.JPG)
 
 
 Petit déj à 6h30, on dit au revoir à Cams et Loub qui reviennent sur leurs pas
@@ -227,12 +227,12 @@ lyophilisés et soupes pour finir nos réserves. Chocolat suisse et gateaux/frui
 en dessert... La nuit arrive très vite pour nous, bercé par la belle grosse
 journée et le torrent qui coule a quelques mètres de la tente...
 
-![](./IMG_3928.JPG)
+![](IMG_3928.JPG)
 
 ### J8 - La Fouly - Champex-Lac
 
-![](./IMG_3934.JPG)
-![](./IMG_3944.JPG)
+![](IMG_3934.JPG)
+![](IMG_3944.JPG)
 
 Réveil pas très tôt pour cette étape plutôt courte (7h30 ?). Petit déj classique
 puis départ du coeur du camping pour cette nouvelle journée. Les montagnes
@@ -259,8 +259,8 @@ et on est mieux dans les duvets chauds :)
 
 ### J9 - Champex-Lac - Bovine - Col de la Forclaz
 
-![](./IMG_3935.JPG)
-![](./IMG_3941.JPG)
+![](IMG_3935.JPG)
+![](IMG_3941.JPG)
 
 Petite pluie ce matin avant de se lever pour bien mouiller la tente... On
 décolle vers 8h45 ce matin pour une étape moyenne en D+ et temps. On passe dans
@@ -285,8 +285,8 @@ un étape de plus juste pour finir, on verra bien demain l'état des organismes 
 
 ### J10 - Col de la Forclaz - Col de Balme - Le Tour - Montroc
 
-![](./IMG_3953.JPG)
-![](./IMG_3966.JPG)
+![](IMG_3953.JPG)
+![](IMG_3966.JPG)
 
 Finalement la bonne nuit a aidé (le bon repas aussi je pense !) et on part tous
 les 4 pour la dernière étape de notre tour. On attaque par 200m de D- avant
@@ -304,8 +304,8 @@ Une petite heure après, on retrouve nos 2 voitures qui nous attendent sur le
 parking du téléphérique de Bellevue aux Houches ! Et on prend pour finir la
 glace de la victoire dans le café du coin, pour finir en beauté ce beau tour.
 
-![](./IMG_3964.JPG)
-![](./IMG_3971.JPG)
+![](IMG_3964.JPG)
+![](IMG_3971.JPG)
 
  Ce fut encore une expérience fabuleuse, à 4 sur le gros du parcours, dont une
  femme enceinte (on peut dire 4,5 ? :) ). 10 jours c'était bien, limite trop
@@ -330,4 +330,4 @@ relativements légers !
 
 To be continued....
 
-![](./IMG_3878.JPG)
+![](IMG_3878.JPG)
