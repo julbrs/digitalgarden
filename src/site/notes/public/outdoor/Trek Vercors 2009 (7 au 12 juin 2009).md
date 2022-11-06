@@ -37,7 +37,7 @@ Avant la nuit, on fait une petite flambée pour se réchauffer. Finalement
 on sera que tous les 2 cette nuit dans le refuge. Une belle nuit en
 amoureux dans les hauteurs de Vassieux, c'est chouette !
 
-![](./IMG_1662.JPG)
+![](IMG_1662.JPG)
 
 ### J2 - Col de Vassieux - Col du Rousset - But Sapiau - Pas des Econdus - Refuge de Pré Peyret
 - 1090 mD+ / -846 mD-
@@ -52,7 +52,7 @@ le détour jusqu'à la station du col du Rousset (à 10min du col) pour
 manger chaud ce midi. Steak-frites salade... Bon, les frites étaient pas
 super bonnes mais ça changeait du sauc' !
 
-![](./IMG_1668.JPG)
+![](IMG_1668.JPG)
 
 L'aprem, on reprend notre chemin qui nous mène tout d'abord au But
 Sapiau, puis au pas de Econdus. On avait prévu de bivouaquer dans le
@@ -64,7 +64,7 @@ leur exams. Ca change de notre solitude de la veille ! On passe une
 bonne nuit dans ce refuge, emporté par les rêves du haut plateau du
 Vercors.
 
-![](./IMG_1684.JPG)
+![](IMG_1684.JPG)
 
 ### J3 - Refuge de Pré Peyret - Haut-Plateau - Archiane - Nonnières
 - 734 mD+ / 1452 mD-
@@ -74,7 +74,7 @@ Gros D- aujourd'hui ! Réveil vers 6h avec les guides, qui se lèvent tôt
 hauts-plateaux avec de super points de vue dans les combes et les cols.
 De superbes images qui resteront gravés longtemps dans nos têtes...
 
-![](./IMG_1698.JPG)
+![](IMG_1698.JPG)
 
 Ensuite la descente sur Archiane, assez pénible avec un bon dénivelé
 négatif. Arrivé vers 12h30 sur Archiane, on galère à trouver un coin ou
@@ -87,7 +87,7 @@ fait chaud !), on trouve l'hotel après avoir discuté un moment avec un
 habitant le long du GR... Chance, il reste une chambre dans l'hotel, il
 ne reste plus qu'à attendre 18h pour que la réception ouvre à nouveau...
 
-![](./IMG_1704.JPG)
+![](IMG_1704.JPG)
 
 Bonne douche, bonne bouffe et bonne nuit dans l'hotel : c'était l'étape
 royale de notre trip !
@@ -102,7 +102,7 @@ paysage sur la crête m'a fait vraiement peur. J'aime pas les crêtes.
 Avec le vent et le vide de chaque côté, ca me rend dingue ! Le poids du
 sac doit surement jouer également.
 
-![](./IMG_1711.JPG)
+![](IMG_1711.JPG)
 
 Ensuite col de Seysse, descente sur la Pouyat, passage au col de Grimone
 (j'aime pas marcher sur la route!) et arrivée pas si tardive sur Luz la
@@ -114,7 +114,7 @@ Et il faut bien fêter cette dernière journée de rando.
 
 ### J5 - Retour en train à Die
 
-![](./IMG_1716.JPG)
+![](IMG_1716.JPG)
 
 Hum, ca vaut le détour cette dernière journée : après une visite de Luz
 le matin, décolle de Luz vers 11h40 en direction de Veynes S/ Devoluy.
