@@ -3,7 +3,7 @@
 ---
 
 
-![](./IMG_3824.JPG)
+![](IMG_3824.JPG)
 
 Ce début juillet, c'est l'occasion idéale pour monter en altitude et
 profiter de l'air frais de la montagne de Belledone... Pour cette
@@ -16,9 +16,9 @@ Bachat-Boulou de Chamrousse, j'avais peur qu'on voit plus de télésiège
 que de 'nature' mais le chemin vers le lac est bien préservé. Quentin
 marche bien, malgré les grosses chaleurs de l'aprem... Marion a chaud !
 
-![](./IMG_3803.JPG)
+![](IMG_3803.JPG)
 
-![](./IMG_3806.JPG)
+![](IMG_3806.JPG)
 
 Quelques passages rocheux, mais globalement une montée simple (une
 grosse heure) et un dénivelé quasi-ridicule (160m ?). Mais bon c'était
@@ -51,4 +51,4 @@ en poudre et nesquik : pas lourd !). Le meilleur repas de la journée !
 La descente se fait par le même chemin en moins d'une heure... Une
 ballade sympa en tout cas !
 
-![](./IMG_3812.JPG)
+![](IMG_3812.JPG)
