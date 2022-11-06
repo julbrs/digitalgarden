@@ -3,7 +3,7 @@
 ---
 
 
-![](./IMG_5979.JPG)
+![](IMG_5979.JPG)
 
 Petite rando improvisée autour du lac du Crozet, pour profiter de la
 fraîcheur de l'altitude et du panorama. Eliott a pu testé ses nouvelles
@@ -13,8 +13,8 @@ de traduction: le _porte-eliott_) nous semble plus confortable pour
 les randos à la journée que le porte bébé traditionnel de montagne à
 armature. Eliott apprécie aussi, il a dormi à l'aller et au retour !
 
-![](./IMG_5972.JPG)
+![](IMG_5972.JPG)
 
-![](./IMG_5974.JPG)
+![](IMG_5974.JPG)
 
-![](./IMG_5981.JPG)
+![](IMG_5981.JPG)
