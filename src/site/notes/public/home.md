@@ -3,7 +3,11 @@
 ---
 
 
-This little place is where I keep all content produced around _software development_ and _cloud architecture_. My name is **Julien Bras**, a frenchy 🐸  located in 🇨🇦. The main goal of this space is to share knowledge and keep producing content!
+This little place is where I keep all content produced around _software development_ and _cloud architecture_. My name is **Julien Bras**, a frenchy 🐸  located in 🇨🇦 (more on [[public/me\|me]]). The main goal of this space is to share knowledge and keep producing content!
+
+[[public/outdoor\|outdoor]] 🥾 🍂 is where I keep notes about several trips made in the past years.
+
+The [[project\|project]] area list some stuff I love to work outside of my company. You will find the [[Mon RDV au Consulat\|Mon RDV au Consulat]] project (a Twitter bot) as an example.
 
 Don’t be shy! You can contact me on [Twitter](https://twitter.com/_julbrs) or [Github](https://github.com/julbrs).
 
