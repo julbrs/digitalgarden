@@ -3,7 +3,7 @@
 ---
 
 
-![](./IMG_1615.JPG)
+![](IMG_1615.JPG)
 
 A Grenoble le vélo est roi ! Quoi de plus naturel que d'envisager partir
 rouler avec les enfants pour les vacances ? On se fixe un objectif
@@ -68,7 +68,7 @@ montée est là !
 
 ### Grenoble La Terrasse
 
-![](./IMG_1605.JPG)
+![](IMG_1605.JPG)
 
 Cette permière journée nous emmène jusqu'au camping de la Terrasse, au
 bord du petit lac de plaisance dans lequel on peut se baigner. On sort
@@ -91,7 +91,7 @@ d'école au camping !
 
 ### La Terrasse St Hélène du Lac
 
-![](./IMG_1614.JPG)
+![](IMG_1614.JPG)
 
 Aujourd'hui au programme : chemin de l'empereur ! On en profite pour
 voir décoller un autogire sur un champ à côté de la route. On veut
@@ -105,7 +105,7 @@ humaine a st hélène, avec belle piscine pour barbotter l'après-midi.
 
 ### St Hélène du Lac St Pierre d'Albigny
 
-![](./IMG_1613.JPG)
+![](IMG_1613.JPG)
 
 On décolle tôt, toujours vers 9h ou un poil avant. On est super efficace
 pour ranger la tente je trouve ! Levé vers 7h, petit déj et hop
@@ -126,7 +126,7 @@ de la gastronomie locale, pizza et melon au menu du soir !
 
 ### St Pierre d'Albigny Albertville
 
-![](./IMG_1651.JPG)
+![](IMG_1651.JPG)
 
 On suit la D201 jusqu'à Frontenex, puis on retrouve la vélo route qui va
 bien de l'autre coté de l'isère. La D201 est pas facile avec encore pas
@@ -143,7 +143,7 @@ l'étape de demain.
 
 ### Albertville Doussard
 
-![](./IMG_1625.JPG)
+![](IMG_1625.JPG)
 
 On continue la véloroute qui passe le long du camping (agréable le matin
 de partir juste à coté du camping !), mais on retombe assez vite sur une
@@ -161,7 +161,7 @@ camping c'était le mauvais choix du séjour !
 
 ### Doussard Annecy
 
-![](./IMG_1677.JPG)
+![](IMG_1677.JPG)
 
 L'étape cadeau du trajet, assez courte (18km) et le long du lac... Bref
 juste pour profiter !! Eliott la fera entièrement sur son vélo. On va
