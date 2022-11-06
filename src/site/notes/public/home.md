@@ -3,7 +3,6 @@
 ---
 
 
-
 This little place is where I keep all content produced around _software development_ and _cloud architecture_. My name is **Julien Bras**, a frenchy 🐸  located in 🇨🇦. The main goal of this space is to share knowledge and keep producing content!
 
 Don’t be shy! You can contact me on [Twitter](https://twitter.com/_julbrs) or [Github](https://github.com/julbrs).
@@ -12,6 +11,8 @@ Don’t be shy! You can contact me on [Twitter](https://twitter.com/_julbrs) or 
 
 > [!NOTE] 
 > TODO
+
+
 ##  Writing for companies:
 ### Cube
 [Building a nivo Dashboard with Cube](https://cube.dev/blog/building-a-nivo-dashboard-with-cube)
