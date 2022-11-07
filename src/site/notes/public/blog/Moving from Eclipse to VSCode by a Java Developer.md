@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"moving-from-eclipse-to-vscode-by-a-java-developer","permalink":"/moving-from-eclipse-to-vscode-by-a-java-developer/"}
+{"dg-publish":true,"dg-permalink":"moving-from-eclipse-to-vscode-by-a-java-developer","date":"2020-05-02","permalink":"/moving-from-eclipse-to-vscode-by-a-java-developer/","dgPassFrontmatter":true}
 ---
 
 #eclipse #vscode #java
