@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/outdoor/leve-de-soleil-au-pain-de-sucre-10-aout-2011/"}
+{"layout":"post","title":"Levé de soleil au Pain de Sucre (10 août 2011)","date":"2011-08-23","featuredImage":"./IMG_4904.JPG","dg-publish":true,"permalink":"/public/outdoor/leve-de-soleil-au-pain-de-sucre-10-aout-2011/","dgPassFrontmatter":true}
 ---
 
 
