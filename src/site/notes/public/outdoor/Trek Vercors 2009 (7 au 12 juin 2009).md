@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/outdoor/trek-vercors-2009-7-au-12-juin-2009/"}
+{"layout":"post","title":"Trek Vercors 2009 (7 au 12 juin 2009)","date":"2009-06-13","featuredImage":"./IMG_1684.JPG","dg-publish":true,"permalink":"/public/outdoor/trek-vercors-2009-7-au-12-juin-2009/","dgPassFrontmatter":true}
 ---
 
 
