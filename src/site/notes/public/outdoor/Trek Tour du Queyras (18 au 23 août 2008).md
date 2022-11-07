@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/outdoor/trek-tour-du-queyras-18-au-23-aout-2008/"}
+{"layout":"post","title":"Trek Tour du Queyras (18 au 23 août 2008)","date":"2008-08-25","featuredImage":"./IMG_1500.JPG","dg-publish":true,"permalink":"/public/outdoor/trek-tour-du-queyras-18-au-23-aout-2008/","dgPassFrontmatter":true}
 ---
 
 
