@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/outdoor/"}
+{"dg-publish":true,"permalink":"/public/outdoor/","dgPassFrontmatter":true}
 ---
 
 
