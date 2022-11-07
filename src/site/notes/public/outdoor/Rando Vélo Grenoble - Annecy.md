@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/outdoor/rando-velo-grenoble-annecy/"}
+{"layout":"post","title":"Rando Vélo Grenoble - Annecy","date":"2015-08-08","featuredImage":"./IMG_1615.JPG","dg-publish":true,"permalink":"/public/outdoor/rando-velo-grenoble-annecy/","dgPassFrontmatter":true}
 ---
 
 
