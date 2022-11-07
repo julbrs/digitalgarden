@@ -18,7 +18,7 @@ All writing are here: [[public/All writings\|All writings]]
 ---
 
 ##  Writing for companies
-I am also writing some tech articles for companies. I love to list them in the [[Writing for a company\|Writing for a company]] page.
+I am also writing some tech articles for companies. I love to list them in the [[public/Writing for a company\|Writing for a company]] page.
 
 ---
 
