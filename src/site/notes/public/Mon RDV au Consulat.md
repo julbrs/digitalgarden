@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mon-rdv-au-consulat","permalink":"/mon-rdv-au-consulat/"}
+{"dg-publish":true,"dg-permalink":"mon-rdv-au-consulat","permalink":"/mon-rdv-au-consulat/","dgPassFrontmatter":true}
 ---
 
 
