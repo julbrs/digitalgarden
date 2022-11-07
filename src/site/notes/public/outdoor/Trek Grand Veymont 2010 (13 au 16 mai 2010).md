@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/outdoor/trek-grand-veymont-2010-13-au-16-mai-2010/"}
+{"layout":"post","title":"Trek Grand Veymont 2010 (13 au 16 mai 2010)","date":"2010-06-13","dg-publish":true,"permalink":"/public/outdoor/trek-grand-veymont-2010-13-au-16-mai-2010/","dgPassFrontmatter":true}
 ---
 
 
