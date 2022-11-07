@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/me/"}
+{"dg-publish":true,"permalink":"/public/me/","dgPassFrontmatter":true}
 ---
 
 My name is Julien Bras, I’m a **software developer** with a particular interest in **technical writing**.
