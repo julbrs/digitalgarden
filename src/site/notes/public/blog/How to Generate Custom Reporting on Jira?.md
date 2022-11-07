@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"jira-one-easy-solution-to-generate-custom-reporting","permalink":"/jira-one-easy-solution-to-generate-custom-reporting/"}
+{"dg-publish":true,"dg-permalink":"jira-one-easy-solution-to-generate-custom-reporting","date":"2021-02-18","permalink":"/jira-one-easy-solution-to-generate-custom-reporting/","dgPassFrontmatter":true}
 ---
 
 #jira #jupyter #analytics
