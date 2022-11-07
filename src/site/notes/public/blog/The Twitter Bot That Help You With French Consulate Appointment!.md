@@ -297,4 +297,4 @@ The operational cost of the whole infrastructure is negligible (still showing _0
 > 💡 Thanks for your time reading this article! You can discuss with me [here](https://twitter.com/_julbrs). Let me know if you have any question or suggestion on this project!
 
 Links:
-- [[Mon RDV au Consulat\|Mon RDV au Consulat]]
+- [[public/Mon RDV au Consulat\|Mon RDV au Consulat]]
