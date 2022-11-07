@@ -27,7 +27,6 @@
 [Why We Needed a BitBucket Bot (and How We Built Our Own Bot in a Matter of Hours)](https://medium.com/wiiisdom-labs/why-we-need-a-bitbucket-bot-and-how-we-have-made-it-f90a6da9dbcb)
 > BitBucket is a web-based version control repository hosting service for source code and development projects. Bitbucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test, and deploy. (...)
 
-Atlassian (software company that acquired BitBucket in 2010)
 [Cost-Efficient Integration Testing on vendor appliances running on EC2](https://medium.com/wiiisdom-labs/cost-efficient-integration-testing-on-vendor-appliances-running-on-ec2-7101cf1ba895)
 > We are building applications that are relying on monolithic commercial applications like [SAP Business Objects](https://www.sap.com/products/bi-platform.html) or [Tableau Software](https://www.tableau.com/). Following our quality standard, we want to run reliable, efficient and cost-effective tests to validate our work. Here is how we are doing that using AWS EC2 instances. (...)
 
