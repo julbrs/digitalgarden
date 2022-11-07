@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-to-use-react-inside-a-wordpress-application","permalink":"/how-to-use-react-inside-a-wordpress-application/"}
+{"dg-publish":true,"dg-permalink":"how-to-use-react-inside-a-wordpress-application","date":"2021-03-05","permalink":"/how-to-use-react-inside-a-wordpress-application/","dgPassFrontmatter":true}
 ---
 
 #react #wordpress #bedrock #trellis
