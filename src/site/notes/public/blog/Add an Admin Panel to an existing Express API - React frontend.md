@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"add-an-admin-panel-to-an-existing-express-api-react-frontend","permalink":"/add-an-admin-panel-to-an-existing-express-api-react-frontend/"}
+{"dg-publish":true,"dg-permalink":"add-an-admin-panel-to-an-existing-express-api-react-frontend","date":"2020-04-13","permalink":"/add-an-admin-panel-to-an-existing-express-api-react-frontend/","dgPassFrontmatter":true}
 ---
 
 #strapi #node #express
