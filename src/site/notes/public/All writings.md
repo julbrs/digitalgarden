@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/all-writings/"}
+{"dg-publish":true,"permalink":"/public/all-writings/","dgPassFrontmatter":true}
 ---
 
 This is a view of all the articles published here:
