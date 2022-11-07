@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/outdoor/quebec-mega-trail-100k-2018/"}
+{"layout":"post","title":"Québec Mega Trail 100k 2018","date":"2018-07-05","featuredImage":"./qmt100.png","dg-publish":true,"permalink":"/public/outdoor/quebec-mega-trail-100k-2018/","dgPassFrontmatter":true}
 ---
 
 
