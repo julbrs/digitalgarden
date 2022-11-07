@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/outdoor/adirondack-great-range/"}
+{"layout":"post","title":"Adirondack Great Range","date":"2018-09-08","featuredImage":"./greatrange2.jpg","dg-publish":true,"permalink":"/public/outdoor/adirondack-great-range/","dgPassFrontmatter":true}
 ---
 
 
