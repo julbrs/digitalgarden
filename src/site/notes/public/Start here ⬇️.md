@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/start-here/","tags":"gardenEntry"}
+{"dg-home":true,"dg-publish":true,"permalink":"/public/start-here/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
@@ -36,7 +36,7 @@ A twitter bot that give you information about available slots to renew your pass
 ### [Nelligan+](https://nelligan.sidoine.org)
 A simple system to manage more easily Montreal library cards. A nice addition when you need to check book to renew on the 5 cards of the family 😇 (CreateReactApp + Serverless Stack backend) 
  → [GitHub](https://github.com/julbrs/nelligan-plus) 
- → [Article](https://sidoine.org/why-and-how-migrate-from-firebase-to-serverless-stack)
+ → [[public/blog/Why and How Migrate From Firebase to Serverless Stack?\|Why and How Migrate From Firebase to Serverless Stack?]]
 
 ---
 
