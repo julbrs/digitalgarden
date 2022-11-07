@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"writing-for-companies","permalink":"/writing-for-companies/"}
+{"dg-publish":true,"dg-permalink":"writing-for-companies","permalink":"/writing-for-companies/","dgPassFrontmatter":true}
 ---
 
 ### Cube
