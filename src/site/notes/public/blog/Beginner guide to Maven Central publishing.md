@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"beginner-guide-to-maven-central-publishing","date":"2020-05-04","permalink":"/beginner-guide-to-maven-central-publishing/","dgPassFrontmatter":true}
+{"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"beginner-guide-to-maven-central-publishing","date":"2020-05-04","permalink":"/beginner-guide-to-maven-central-publishing/","dgPassFrontmatter":true}
 ---
 
 #maven #java #opensource
