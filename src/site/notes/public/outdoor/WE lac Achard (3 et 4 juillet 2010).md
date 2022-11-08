@@ -1,5 +1,5 @@
 ---
-{"layout":"post","title":"WE lac Achard (3 et 4 juillet 2010)","date":"2010-07-05","dg-publish":true,"permalink":"/public/outdoor/we-lac-achard-3-et-4-juillet-2010/","dgPassFrontmatter":true}
+{"title":"WE lac Achard (3 et 4 juillet 2010)","date":"2010-07-05","dg-publish":true,"permalink":"/public/outdoor/we-lac-achard-3-et-4-juillet-2010/","dgPassFrontmatter":true}
 ---
 
 
