@@ -21,6 +21,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% if settings.dgShowInlineTitle === true %}
         <h1>{{ page.fileSlug }}</h1>
       {% endif %}
+      {% if page.date %}
+        <i>{{ page.date.toUTCString().substring(0, 16) }}</i>
+      {% endif %}
       {{ content | link | highlight | safe}}
 
       {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true%}
