@@ -1,5 +1,5 @@
 ---
-{"layout":"post","title":"Trek Tour du Mont-Blanc 2010 (18 au 28 juillet 2010)","date":"2010-07-30","featuredImage":"./IMG_3878.JPG","dg-publish":true,"permalink":"/public/outdoor/trek-tour-du-mont-blanc-2010-18-au-28-juillet-2010/","dgPassFrontmatter":true}
+{"title":"Trek Tour du Mont-Blanc 2010 (18 au 28 juillet 2010)","date":"2010-07-30","featuredImage":"./IMG_3878.JPG","dg-publish":true,"permalink":"/public/outdoor/trek-tour-du-mont-blanc-2010-18-au-28-juillet-2010/","dgPassFrontmatter":true}
 ---
 
 
