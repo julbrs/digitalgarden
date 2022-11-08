@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"why-and-how-migrate-from-firebase-to-serverless-stack","date":"2022-03-19","permalink":"/why-and-how-migrate-from-firebase-to-serverless-stack/","dgPassFrontmatter":true}
+{"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"why-and-how-migrate-from-firebase-to-serverless-stack","date":"2022-03-19","permalink":"/why-and-how-migrate-from-firebase-to-serverless-stack/","dgPassFrontmatter":true}
 ---
 
 #serverless #sst #cdk #aws [[SST\|SST]]
