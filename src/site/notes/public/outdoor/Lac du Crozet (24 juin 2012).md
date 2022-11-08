@@ -1,5 +1,5 @@
 ---
-{"layout":"post","title":"Lac du Crozet (24 juin 2012)","date":"2012-06-25","featuredImage":"./IMG_5979.JPG","dg-publish":true,"permalink":"/public/outdoor/lac-du-crozet-24-juin-2012/","dgPassFrontmatter":true}
+{"title":"Lac du Crozet (24 juin 2012)","date":"2012-06-25","featuredImage":"./IMG_5979.JPG","dg-publish":true,"permalink":"/public/outdoor/lac-du-crozet-24-juin-2012/","dgPassFrontmatter":true}
 ---
 
 
