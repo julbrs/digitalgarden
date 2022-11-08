@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-to-run-a-minecraft-server-on-aws-for-less-than-3-usd-a-month","date":"2021-08-07","permalink":"/how-to-run-a-minecraft-server-on-aws-for-less-than-3-usd-a-month/","dgPassFrontmatter":true}
+{"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"how-to-run-a-minecraft-server-on-aws-for-less-than-3-usd-a-month","date":"2021-08-07","permalink":"/how-to-run-a-minecraft-server-on-aws-for-less-than-3-usd-a-month/","dgPassFrontmatter":true}
 ---
 
 #aws #serverless #minecraft #tutorial
