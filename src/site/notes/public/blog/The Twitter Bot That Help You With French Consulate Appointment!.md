@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-twitter-bot-that-help-you-with-french-consulate-appointment","date":"2022-04-28","permalink":"/the-twitter-bot-that-help-you-with-french-consulate-appointment/","dgPassFrontmatter":true}
+{"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"the-twitter-bot-that-help-you-with-french-consulate-appointment","date":"2022-04-28","permalink":"/the-twitter-bot-that-help-you-with-french-consulate-appointment/","dgPassFrontmatter":true}
 ---
 
 #serverless #sst #twitter #api #scraping
