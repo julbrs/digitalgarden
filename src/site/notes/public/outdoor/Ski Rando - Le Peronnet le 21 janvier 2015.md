@@ -1,5 +1,5 @@
 ---
-{"layout":"post","title":"Ski Rando - Le Peronnet le 21 janvier 2015","date":"2015-01-21","dg-publish":true,"permalink":"/public/outdoor/ski-rando-le-peronnet-le-21-janvier-2015/","dgPassFrontmatter":true}
+{"title":"Ski Rando - Le Peronnet le 21 janvier 2015","date":"2015-01-21","dg-publish":true,"permalink":"/public/outdoor/ski-rando-le-peronnet-le-21-janvier-2015/","dgPassFrontmatter":true}
 ---
 
 
