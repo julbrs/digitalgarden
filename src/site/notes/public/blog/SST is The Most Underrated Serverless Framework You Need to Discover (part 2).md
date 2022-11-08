@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"sst-the-most-underrated-serverless-framework-you-need-to-discover-part-2","date":"2021-11-13","permalink":"/sst-the-most-underrated-serverless-framework-you-need-to-discover-part-2/","dgPassFrontmatter":true}
+{"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"sst-the-most-underrated-serverless-framework-you-need-to-discover-part-2","date":"2021-11-13","permalink":"/sst-the-most-underrated-serverless-framework-you-need-to-discover-part-2/","dgPassFrontmatter":true}
 ---
 
 #serverless #aws #sst #cdk
