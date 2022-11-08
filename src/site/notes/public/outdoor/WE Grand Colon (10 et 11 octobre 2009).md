@@ -1,5 +1,5 @@
 ---
-{"layout":"post","title":"WE Grand Colon (10 et 11 octobre 2009)","date":"2009-10-12","featuredImage":"./IMG_8393.JPG","dg-publish":true,"permalink":"/public/outdoor/we-grand-colon-10-et-11-octobre-2009/","dgPassFrontmatter":true}
+{"title":"WE Grand Colon (10 et 11 octobre 2009)","date":"2009-10-12","featuredImage":"./IMG_8393.JPG","dg-publish":true,"permalink":"/public/outdoor/we-grand-colon-10-et-11-octobre-2009/","dgPassFrontmatter":true}
 ---
 
 
