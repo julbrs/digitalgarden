@@ -1,5 +1,5 @@
 ---
-{"layout":"post","title":"Bivouac au Charmant Som BIS (5 juillet 2012)","date":"2012-07-06","dg-publish":true,"permalink":"/public/outdoor/bivouac-au-charmant-som-bis-5-juillet-2012/","dgPassFrontmatter":true}
+{"title":"Bivouac au Charmant Som BIS (5 juillet 2012)","date":"2012-07-06","dg-publish":true,"permalink":"/public/outdoor/bivouac-au-charmant-som-bis-5-juillet-2012/","dgPassFrontmatter":true}
 ---
 
 
