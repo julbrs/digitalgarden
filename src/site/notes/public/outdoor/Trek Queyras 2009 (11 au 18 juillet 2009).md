@@ -1,5 +1,5 @@
 ---
-{"layout":"post","title":"Trek Queyras 2009 (11 au 18 juillet 2009)","date":"2009-07-24","featuredImage":"./P7125089.JPG","dg-publish":true,"permalink":"/public/outdoor/trek-queyras-2009-11-au-18-juillet-2009/","dgPassFrontmatter":true}
+{"title":"Trek Queyras 2009 (11 au 18 juillet 2009)","date":"2009-07-24","featuredImage":"./P7125089.JPG","dg-publish":true,"permalink":"/public/outdoor/trek-queyras-2009-11-au-18-juillet-2009/","dgPassFrontmatter":true}
 ---
 
 
