@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"comparing-api-platform-and-symfony-encore-with-reactjs","date":"2019-10-04","permalink":"/comparing-api-platform-and-symfony-encore-with-reactjs/","dgPassFrontmatter":true}
+{"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"comparing-api-platform-and-symfony-encore-with-reactjs","date":"2019-10-04","permalink":"/comparing-api-platform-and-symfony-encore-with-reactjs/","dgPassFrontmatter":true}
 ---
 
 #api #javascript #symfony #react #php
