@@ -1,5 +1,5 @@
 ---
-{"layout":"post","title":"Bivouac au Charmant Som (02 juin 2012)","date":"2012-06-03","featuredImage":"./IMG_5946.JPG","dg-publish":true,"permalink":"/public/outdoor/bivouac-au-charmant-som-02-juin-2012/","dgPassFrontmatter":true}
+{"title":"Bivouac au Charmant Som (02 juin 2012)","date":"2012-06-03","featuredImage":"./IMG_5946.JPG","dg-publish":true,"permalink":"/public/outdoor/bivouac-au-charmant-som-02-juin-2012/","dgPassFrontmatter":true}
 ---
 
 
