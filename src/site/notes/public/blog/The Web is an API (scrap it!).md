@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-web-is-an-api-scrap-it","date":"2018-09-30","permalink":"/the-web-is-an-api-scrap-it/","dgPassFrontmatter":true}
+{"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"the-web-is-an-api-scrap-it","date":"2018-09-30","permalink":"/the-web-is-an-api-scrap-it/","dgPassFrontmatter":true}
 ---
 
 #python #scraping #django
