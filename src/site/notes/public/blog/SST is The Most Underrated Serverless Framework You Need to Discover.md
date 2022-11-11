@@ -5,10 +5,11 @@
 #serverless #aws #sst #cdk 
 
 > [!NOTE] SST Series
-> This article is the first of a series around SST - Serverless Stack. I will try to let you discover some amazing aspects of this particular solution in the serverless world.
+> This article is part of a series around SST - Serverless Stack. I will try to let you discover some amazing aspects of this particular solution in the serverless world.
 > - Part 1: [[public/blog/SST is The Most Underrated Serverless Framework You Need to Discover\|SST is The Most Underrated Serverless Framework You Need to Discover]]
 > - Part 2: [[public/blog/SST is The Most Underrated Serverless Framework You Need to Discover (part 2)\|SST is The Most Underrated Serverless Framework You Need to Discover (part 2)]]
 > - Part 3: [[public/blog/Why and How Migrate From Firebase to Serverless Stack?\|Why and How Migrate From Firebase to Serverless Stack?]]
+> - Part 4: [[public/blog/OAuth with Serverless using SST\|OAuth with Serverless using SST]]
 
 So you start building using **serverless** principles, and you discover the [Serverless framework](https://www.serverless.com/). Great ! You will discover here another option, that I consider superior in multiple area, the [Serverless Stack (SST)](https://serverless-stack.com/). I will first introduce some basic concepts for beginners, then I will expose the main difference between the solutions. Let's dig into this!
 
