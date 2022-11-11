@@ -4,12 +4,12 @@
 
 #serverless #sst #cdk #aws [[SST\|SST]]
 
-
 > [!NOTE] SST Series
-> This article is the third of a series around SST - Serverless Stack. I will try to let you discover some amazing aspects of this particular solution in the serverless world.
+> This article is part of a series around SST - Serverless Stack. I will try to let you discover some amazing aspects of this particular solution in the serverless world.
 > - Part 1: [[public/blog/SST is The Most Underrated Serverless Framework You Need to Discover\|SST is The Most Underrated Serverless Framework You Need to Discover]]
 > - Part 2: [[public/blog/SST is The Most Underrated Serverless Framework You Need to Discover (part 2)\|SST is The Most Underrated Serverless Framework You Need to Discover (part 2)]]
 > - Part 3: [[public/blog/Why and How Migrate From Firebase to Serverless Stack?\|Why and How Migrate From Firebase to Serverless Stack?]]
+> - Part 4: [[public/blog/OAuth with Serverless using SST\|OAuth with Serverless using SST]]
 
 [Firebase](https://firebase.google.com/) is a fantastic tool. It allows you to build mobile or web applications without having to manage a backend by yourself. But somehow, this comes with some drawbacks. In this article I will explain you why you may want to switch, and a practical guide to switch.
 
