@@ -420,4 +420,3 @@ Starting from a bootstrapped project from SST, we have easily adapted it to supp
 You can continue the journey by reading the extensive documentation about [Auth](https://docs.sst.dev/auth). It's also possible to rely on the [OAuth](https://docs.sst.dev/auth#oauth) adapter that is supporting out of the box any OAuth2 compatible service.
 
 Happy authentication!
-
