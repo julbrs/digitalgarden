@@ -19,3 +19,4 @@ This is a view of all the articles published here:
 | [[public/blog/Add an Admin Panel to an existing Express API - React frontend\|Add an Admin Panel to an existing Express API - React frontend]]                               | April 13, 2020     |
 | [[public/blog/Comparing API Platform and Symfony Encore with ReactJS\|Comparing API Platform and Symfony Encore with ReactJS]]                                               | October 04, 2019   |
 | [[public/blog/The Web is an API (scrap it!)\|The Web is an API (scrap it!)]]                                                                                                 | September 30, 2018 |
+
