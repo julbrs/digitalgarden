@@ -1,5 +1,5 @@
 ---
-{"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"next-auth-vs-sst-auth","date":"2022-11-18","permalink":"/next-auth-vs-sst-auth/","dgPassFrontmatter":true}
+{"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"next-auth-vs-sst-auth","date":"2022-11-20","permalink":"/next-auth-vs-sst-auth/","dgPassFrontmatter":true}
 ---
 
 #sst #serverless #nextjs #oauth 
