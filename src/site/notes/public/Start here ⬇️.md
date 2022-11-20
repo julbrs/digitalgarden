@@ -5,13 +5,13 @@
 
 ## Latest writing
 
-| File                                                                                                                                                                            | date               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[public/blog/OAuth with Serverless using SST\|OAuth with Serverless using SST]]                                                                                             | November 11, 2022  |
-| [[public/blog/The Twitter Bot That Help You With French Consulate Appointment!\|The Twitter Bot That Help You With French Consulate Appointment!]]                           | April 28, 2022     |
-| [[public/blog/Why and How Migrate From Firebase to Serverless Stack?\|Why and How Migrate From Firebase to Serverless Stack?]]                                               | March 19, 2022     |
-| [[public/blog/SST is The Most Underrated Serverless Framework You Need to Discover (part 2)\|SST is The Most Underrated Serverless Framework You Need to Discover (part 2)]] | November 13, 2021  |
-| [[public/blog/SST is The Most Underrated Serverless Framework You Need to Discover\|SST is The Most Underrated Serverless Framework You Need to Discover]]                   | September 26, 2021 |
+| File                                                                                                                                                                            | date              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[public/blog/🔒 Next Auth vs SST Auth\|🔒 Next Auth vs SST Auth]]                                                                                                           | November 18, 2022 |
+| [[public/blog/OAuth with Serverless using SST\|OAuth with Serverless using SST]]                                                                                             | November 11, 2022 |
+| [[public/blog/The Twitter Bot That Help You With French Consulate Appointment!\|The Twitter Bot That Help You With French Consulate Appointment!]]                           | April 28, 2022    |
+| [[public/blog/Why and How Migrate From Firebase to Serverless Stack?\|Why and How Migrate From Firebase to Serverless Stack?]]                                               | March 19, 2022    |
+| [[public/blog/SST is The Most Underrated Serverless Framework You Need to Discover (part 2)\|SST is The Most Underrated Serverless Framework You Need to Discover (part 2)]] | November 13, 2021 |
 
 All writing are here: [[public/All writings\|All writings]]
 
