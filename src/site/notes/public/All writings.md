@@ -6,6 +6,7 @@ This is a view of all the articles published here:
 
 | File                                                                                                                                                                            | date               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[public/blog/Using the Strangler Fig Pattern in SST\|Using the Strangler Fig Pattern in SST]]                                                                               | January 11, 2023   |
 | [[public/blog/🔒 Next Auth vs SST Auth\|🔒 Next Auth vs SST Auth]]                                                                                                           | November 20, 2022  |
 | [[public/blog/OAuth with Serverless using SST\|OAuth with Serverless using SST]]                                                                                             | November 11, 2022  |
 | [[public/blog/The Twitter Bot That Help You With French Consulate Appointment!\|The Twitter Bot That Help You With French Consulate Appointment!]]                           | April 28, 2022     |
