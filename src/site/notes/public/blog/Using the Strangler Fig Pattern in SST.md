@@ -4,11 +4,6 @@
 
 #sst #aws #pattern
 
-## Introduction
-
-## Development
-
-## Conclusion
 I am currently working on the architecture of a new project for my company. This new project must be compatible with an historical monolith, then extend it. It's a common case to rewrite an existing application with modern toolkit.
 
 ## What is the Strangler Fit Pattern?
