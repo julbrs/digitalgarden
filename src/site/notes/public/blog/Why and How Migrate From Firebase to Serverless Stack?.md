@@ -2,7 +2,7 @@
 {"layout":"layouts/post.njk","dg-publish":true,"dg-permalink":"why-and-how-migrate-from-firebase-to-serverless-stack","date":"2022-03-19","permalink":"/why-and-how-migrate-from-firebase-to-serverless-stack/","dgPassFrontmatter":true}
 ---
 
-#serverless #sst #cdk #aws [[SST\|SST]]
+#serverless #sst #cdk #aws [[technologies/SST\|SST]]
 
 > [!NOTE] SST Series
 > This article is part of a series around SST - Serverless Stack. I will try to let you discover some amazing aspects of this particular solution in the serverless world.
